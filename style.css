@@ -1,0 +1,30 @@
+body {
+    background-color:  rgb(50, 50, 51);
+}
+
+h1 {
+    color: rgb(28, 142, 218);
+    font-size: 100px;
+    border: radius 100px;
+    text-align: center;
+}
+
+img {
+    height:200px;
+    weight:200px;
+    border-radius:20px;
+    
+}
+
+p {
+    background-color: blue;
+    font-style: italic;
+    font-size: 5px;
+}
+
+button {
+    background-color: rgb(97, 97, 241);
+    font-size: 50px;
+    color: rgb(32, 161, 161);
+    border-radius: 20px;
+}
