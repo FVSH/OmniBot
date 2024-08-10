@@ -9,6 +9,9 @@ h1 {
     text-align: center;
 }
 
+body {
+    background-image: URL(../Pictures/omnibot.png)
+
 img {
     height:200px;
     weight:200px;
