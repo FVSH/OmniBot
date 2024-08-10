@@ -1,5 +1,6 @@
 body {
     background-color:  rgb(50, 50, 51);
+    background-image: URL(../Pictures/omnibot.png)
 }
 
 h1 {
@@ -8,9 +9,6 @@ h1 {
     border: radius 100px;
     text-align: center;
 }
-
-body {
-    background-image: URL(../Pictures/omnibot.png)
 
 img {
     height:200px;
